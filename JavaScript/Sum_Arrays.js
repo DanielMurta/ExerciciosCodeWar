@@ -7,6 +7,7 @@ function sum (numbers) {
     return sum
 }
 
+// test
 sum([1, 5.2, 4, 0, -1])
 
 // Outra Solução - Another Solution

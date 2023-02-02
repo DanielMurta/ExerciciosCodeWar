@@ -9,6 +9,7 @@ function oddOrEven(array) {
     }
 }
 
+// Test
 oddOrEven([0, 1, 5])
 
 
